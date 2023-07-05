@@ -1,0 +1,45 @@
+.container{
+    border: 5px solid black;
+    height: 80%;
+    display: flex;
+    /* flex-direction: column; */
+    flex-wrap: wrap;
+    align-items: center;
+    /* align-content: center; */
+}
+
+.items{
+    height: 150px;
+    width: 150px;
+    margin: 30px;
+}
+
+#box1{
+    background-color: aquamarine;
+    border: 1px solid #000;
+}
+
+#box2{
+    border: 1px solid #000;
+}
+
+#box3{
+    border: 1px solid #000;
+    background-color: pink;
+    font-size: 1.3rem;
+}
+
+#box4{
+    background-color: aquamarine;
+    border: 1px solid #000;
+}
+
+#box5{
+    border: 1px solid #000;
+}
+
+#box6{
+    border: 1px solid #000;
+    background-color: pink;
+    font-size: 1.3rem;
+}
